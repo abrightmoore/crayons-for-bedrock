@@ -1,0 +1,7 @@
+pack.description=Crayon Resource Pack
+pack.name=Crayon by The World Foundry
+item.twf:crayon_blue.name=Blue Crayon
+item.twf:crayon_red.name=Red Crayon
+item.twf:crayon_yellow.name=Yellow Crayon
+item.twf:crayon_green.name=Green Crayon
+item.twf:highlighter.name=Highlighter

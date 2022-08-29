@@ -1,0 +1,14 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "twf:crayon_red",
+			"category": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "twf_crayon_red",
+			"minecraft:use_animation": "eat",            
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}
